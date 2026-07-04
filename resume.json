@@ -1,0 +1,133 @@
+{
+  "basics": {
+    "name": "Devika Sunitha",
+    "label": "Technical Writing Team Manager",
+    "image": "",
+    "email": "devika.sunitha@gmail.com",
+    "phone": "+91-9539127792",
+    "url": "https://www.linkedin.com/in/devika-sunitha/",
+    "summary": "Experienced Technical Writer with 15 years in the IT industry and a strong managerial background, seeking a challenging role to apply expertise in documentation and knowledge management. Proven track record in leading Learning and Development projects, crafting tailored content for diverse verticals, and coordinating website development initiatives.",
+    "location": {
+      "city": "Mumbai"
+    }
+  },
+  "work": [
+    {
+      "name": "Jocata",
+      "position": "Technical Writing Team Manager",
+      "startDate": "2017",
+      "endDate": "",
+      "summary": "Led Technical Writing and Content Development function, driving documentation governance, AI transformation, and enterprise-wide learning initiatives.",
+      "highlights": [
+        "Established and scaled the Technical Writing function from the ground up, defining team vision, structure, and operating model",
+        "Designed and implemented end-to-end documentation governance process introducing standardized workflows and review mechanisms",
+        "Developed enterprise-wide branded documentation templates and style guides improving consistency across all documentation",
+        "Spearheaded AI transformation strategy integrating generative AI into documentation workflows to improve productivity and turnaround time"
+      ]
+    },
+    {
+      "name": "ADF",
+      "position": "Senior Technical Writer",
+      "startDate": "2014",
+      "endDate": "2015",
+      "summary": "Led technical documentation initiatives for the Chennai branch, standardizing documentation practices and fostering cross-functional collaboration.",
+      "highlights": [
+        "Initiated comprehensive documentation for the Chennai branch customizing content for support teams",
+        "Championed standardized documentation practices focusing on clarity and effectiveness",
+        "Fostered collaboration implementing versatile document templates with cross-functional teams"
+      ]
+    },
+    {
+      "name": "Flytxt",
+      "position": "Technical Writer",
+      "startDate": "2010",
+      "endDate": "2014",
+      "summary": "Authored technical documentation and user materials for product offerings while ensuring quality and consistency.",
+      "highlights": [
+        "Authored and updated technical documentation for products enhancing critical information accessibility",
+        "Produced user manuals, installation guides, and architectural diagrams for diverse user needs",
+        "Conducted meticulous reviews ensuring accuracy, clarity, and consistency in technical content"
+      ]
+    },
+    {
+      "name": "QBurst",
+      "position": "Business Analyst",
+      "startDate": "2009",
+      "endDate": "2010",
+      "summary": "Gathered and analyzed business requirements, translating them into technical specifications and project documentation.",
+      "highlights": [
+        "Actively participated in requirement gathering ensuring comprehensive understanding of project specifications",
+        "Translated business needs into actionable technical requirements collaborating with clients",
+        "Contributed detailed functional specifications and user stories to project documentation"
+      ]
+    },
+    {
+      "name": "TCS",
+      "position": "Assistant System Engineer",
+      "startDate": "2006",
+      "endDate": "2009",
+      "summary": "Supported World Bank project operations and contributed to team delivery through effective collaboration and rapid advancement.",
+      "highlights": [
+        "Monitored World Bank project swiftly identifying and addressing alerts to ensure seamless operation",
+        "Achieved promotion to Assistant Project Lead within one year showcasing rapid learning and effective leadership",
+        "Collaborated with diverse global team ensuring successful project delivery through effective teamwork"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Kerala University",
+      "studyType": "Master of Business Administration",
+      "startDate": "2015",
+      "endDate": "2018"
+    },
+    {
+      "institution": "Anna University",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2003",
+      "endDate": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Leadership and Team Management"
+    },
+    {
+      "name": "Technical Writing and Documentation"
+    },
+    {
+      "name": "Learning and Development (L&D) Management"
+    },
+    {
+      "name": "Initiative and Resourcefulness"
+    },
+    {
+      "name": "Coordination, Collaboration and Communication"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certified Scrum Master (CSM)",
+      "issuer": "Scrum Alliance",
+      "startDate": "2023",
+      "endDate": "2025",
+      "url": "",
+      "credentialId": "001570417"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Hindi"
+    },
+    {
+      "language": "Malayalam"
+    },
+    {
+      "language": "Tamil"
+    }
+  ]
+}
