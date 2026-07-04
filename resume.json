@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Devika Sunitha",
-    "label": "Technical Writing Team Manager",
+    "label": "Experienced Technical Writer & Team Manager",
     "image": "",
     "email": "devika.sunitha@gmail.com",
     "phone": "+91-9539127792",
     "url": "https://www.linkedin.com/in/devika-sunitha/",
-    "summary": "Experienced Technical Writer with 15 years in the IT industry and a strong managerial background, seeking a challenging role to apply expertise in documentation and knowledge management. Proven track record in leading Learning and Development projects, crafting tailored content for diverse verticals, and coordinating website development initiatives.",
+    "summary": "Experienced Technical Writer with 15 years in the IT industry and a strong managerial background, seeking a challenging role to apply expertise in documentation and knowledge management. Proven track record in leading Learning and Development projects, crafting tailored content for diverse verticals. Proficient in creating user manuals, instruction manuals, and API documents, with a knack for coordinating website development and spearheading content projects.",
     "location": {
       "city": "Mumbai"
     }
@@ -15,104 +15,113 @@
     {
       "name": "Jocata",
       "position": "Technical Writing Team Manager",
-      "startDate": "2017",
+      "startDate": "2017-01",
       "endDate": "",
-      "summary": "Led Technical Writing and Content Development function, driving documentation governance, AI transformation, and enterprise-wide learning initiatives.",
+      "summary": "Led the Technical Writing and Content Development function with focus on documentation governance, AI transformation, and enterprise knowledge management.",
       "highlights": [
-        "Established and scaled the Technical Writing function from the ground up, defining team vision, structure, and operating model",
-        "Designed and implemented end-to-end documentation governance process introducing standardized workflows and review mechanisms",
-        "Developed enterprise-wide branded documentation templates and style guides improving consistency across all documentation",
-        "Spearheaded AI transformation strategy integrating generative AI into documentation workflows to improve productivity and turnaround time"
+        "Established and scaled the Technical Writing and Content Development function from the ground up, defining team vision and operating model",
+        "Designed and implemented the organization's end-to-end documentation governance process with standardized workflows and quality assurance practices",
+        "Developed enterprise-wide branded documentation templates and style guides, improving consistency across all documentation",
+        "Spearheaded AI transformation strategy integrating generative AI into documentation workflows, enabling large-scale document modernization and automation"
       ]
     },
     {
       "name": "ADF",
       "position": "Senior Technical Writer",
-      "startDate": "2014",
-      "endDate": "2015",
-      "summary": "Led technical documentation initiatives for the Chennai branch, standardizing documentation practices and fostering cross-functional collaboration.",
+      "startDate": "2014-01",
+      "endDate": "2015-12",
+      "summary": "Initiated comprehensive documentation for the Chennai branch and championed standardized documentation practices.",
       "highlights": [
-        "Initiated comprehensive documentation for the Chennai branch customizing content for support teams",
+        "Initiated comprehensive documentation for the Chennai branch, customizing content for support teams",
+        "Fostered cross-functional collaboration for precise technical content, implementing versatile document templates",
         "Championed standardized documentation practices focusing on clarity and effectiveness",
-        "Fostered collaboration implementing versatile document templates with cross-functional teams"
+        "Provided strategic insights into product release processes through participation in management meetings"
       ]
     },
     {
       "name": "Flytxt",
       "position": "Technical Writer",
-      "startDate": "2010",
-      "endDate": "2014",
-      "summary": "Authored technical documentation and user materials for product offerings while ensuring quality and consistency.",
+      "startDate": "2010-01",
+      "endDate": "2014-12",
+      "summary": "Authored technical documentation and collaborated with cross-functional teams to produce user manuals and architectural diagrams.",
       "highlights": [
-        "Authored and updated technical documentation for products enhancing critical information accessibility",
-        "Produced user manuals, installation guides, and architectural diagrams for diverse user needs",
-        "Conducted meticulous reviews ensuring accuracy, clarity, and consistency in technical content"
+        "Authored and updated technical documentation for products, enhancing accessibility of critical information",
+        "Collaborated with cross-functional teams to gather information and produce user manuals, installation guides, and architectural diagrams",
+        "Conducted meticulous reviews ensuring accuracy, clarity, and consistency in technical content",
+        "Created documentation for diverse user needs across multiple product lines"
       ]
     },
     {
       "name": "QBurst",
       "position": "Business Analyst",
-      "startDate": "2009",
-      "endDate": "2010",
-      "summary": "Gathered and analyzed business requirements, translating them into technical specifications and project documentation.",
+      "startDate": "2009-01",
+      "endDate": "2010-12",
+      "summary": "Participated in requirement gathering and project documentation, translating business needs into technical specifications.",
       "highlights": [
-        "Actively participated in requirement gathering ensuring comprehensive understanding of project specifications",
-        "Translated business needs into actionable technical requirements collaborating with clients",
-        "Contributed detailed functional specifications and user stories to project documentation"
+        "Actively participated in requirement gathering, ensuring comprehensive understanding of project specifications",
+        "Established collaboration with clients, translating business needs into actionable technical requirements",
+        "Contributed to project documentation including detailed functional specifications and user stories"
       ]
     },
     {
       "name": "TCS",
       "position": "Assistant System Engineer",
-      "startDate": "2006",
-      "endDate": "2009",
-      "summary": "Supported World Bank project operations and contributed to team delivery through effective collaboration and rapid advancement.",
+      "startDate": "2006-01",
+      "endDate": "2009-12",
+      "summary": "Monitored World Bank project operations and collaborated with global teams on project delivery.",
       "highlights": [
-        "Monitored World Bank project swiftly identifying and addressing alerts to ensure seamless operation",
-        "Achieved promotion to Assistant Project Lead within one year showcasing rapid learning and effective leadership",
-        "Collaborated with diverse global team ensuring successful project delivery through effective teamwork"
+        "Monitored World Bank project, swiftly identifying and addressing alerts to ensure seamless operation",
+        "Collaborated with a diverse global team, ensuring successful project delivery through effective teamwork",
+        "Achieved promotion to Assistant Project Lead within one year, demonstrating rapid learning and effective leadership"
       ]
     }
   ],
   "education": [
     {
       "institution": "Kerala University",
-      "studyType": "Master of Business Administration",
-      "startDate": "2015",
-      "endDate": "2018"
+      "area": "Master of Business Administration",
+      "studyType": "Master",
+      "startDate": "2015-01",
+      "endDate": "2018-12"
     },
     {
       "institution": "Anna University",
-      "studyType": "Bachelor of Engineering",
-      "startDate": "2003",
-      "endDate": "2007"
+      "area": "Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2003-01",
+      "endDate": "2007-12"
     }
   ],
   "skills": [
     {
-      "name": "Leadership and Team Management"
+      "name": "Technical Writing and Documentation",
+      "keywords": ["User manuals", "API documentation", "Instruction manuals", "Technical content"]
     },
     {
-      "name": "Technical Writing and Documentation"
+      "name": "Leadership and Team Management",
+      "keywords": ["Team mentoring", "Team scaling", "Quality culture", "Knowledge management"]
     },
     {
-      "name": "Learning and Development (L&D) Management"
+      "name": "Learning and Development Management",
+      "keywords": ["L&D vendor evaluation", "Training content creation", "Employee capability development"]
     },
     {
-      "name": "Initiative and Resourcefulness"
+      "name": "Coordination, Collaboration and Communication",
+      "keywords": ["Cross-functional collaboration", "Stakeholder management", "Strategic communication"]
     },
     {
-      "name": "Coordination, Collaboration and Communication"
+      "name": "Initiative and Resourcefulness",
+      "keywords": ["Process improvement", "Documentation governance", "Strategic planning"]
     }
   ],
   "certificates": [
     {
-      "name": "Certified Scrum Master (CSM)",
+      "name": "Certified Scrum Master",
       "issuer": "Scrum Alliance",
-      "startDate": "2023",
-      "endDate": "2025",
-      "url": "",
-      "credentialId": "001570417"
+      "startDate": "2023-01",
+      "endDate": "2025-12",
+      "url": "https://www.scrumalliance.org/",
+      "credential": "001570417"
     }
   ],
   "languages": [
@@ -121,13 +130,16 @@
       "fluency": "Native speaker"
     },
     {
-      "language": "Hindi"
+      "language": "Hindi",
+      "fluency": "Fluent"
     },
     {
-      "language": "Malayalam"
+      "language": "Malayalam",
+      "fluency": "Fluent"
     },
     {
-      "language": "Tamil"
+      "language": "Tamil",
+      "fluency": "Fluent"
     }
   ]
 }
